@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm N-ostalgia</h1>
-<h3 align="center">Computer Science StudentA passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Student from Morocco </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aya bouibauan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya bouibauan" height="30" width="40" /></a>
-<a href="https://fb.com/aya bouibauan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aya bouibauan" height="30" width="40" /></a>
-<a href="https://instagram.com/aya_bouibauan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aya_bouibauan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aya bouibauan](https://www.linkedin.com/in/aya-bouibauan-a12a04201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya bouibauan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
