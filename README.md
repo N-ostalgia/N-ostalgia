@@ -15,7 +15,6 @@
 ### 🔭 Current Projects
 
 - 🎮 Developing a **C++ STUDYBUDDY using Qt** with a built-in database
-- 🌐 Building a **8-bit portfolio** using JavaScript
 
 ---
 
