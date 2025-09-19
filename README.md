@@ -12,13 +12,6 @@
 
 ---
 
-### 🔭 Current Projects
-
-- 🎮 Developing a **C++ STUDYBUDDY using Qt** with a built-in database
-
----
-
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
