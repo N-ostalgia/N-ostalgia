@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=180&section=header&text=Aya%20Bouibauan&fontSize=52&fontColor=0A0907&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=15&descAlignY=58&descColor=0A0907&animation=twinkling" width="100%"/>
 
 <!-- ══════════════ TYPING ══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=700&lines=4th-year+CS+Engineering+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+Developer+%7C+Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;XGBoost+NIDS+%E2%80%94+F1-score+99.6%25+%F0%9F%94%90;Building+systems%2C+not+just+features.;Open+to+PFA+Internship+%C2%B7+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=700&lines=4th-year+CS+Engineering+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+Developer+%7C+Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;Building+systems%2C+not+just+features.;Open+to+PFA+Internship+%C2%B7+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,9 +31,9 @@ class AyaBouibauan:
         self.alias      = "N-ostalgia"
         self.school     = "ENSAH · Computer Science Engineering (4th year)"
         self.location   = "Al Hoceima, Morocco 🇲🇦"
-        self.languages  = ["Arabic 🗣️ (native)", "French 🇫🇷", "English 🇬🇧"]
+        self.languages  = ["Arabic (native)", "French", "English"]
         self.focus      = ["Full-Stack Dev", "AI/ML", "Cybersecurity", "Systems"]
-        self.seeking    = "PFA Internship · 2026 🚀"
+        self.seeking    = "PFA Internship · 2026 "
 
     def fun_fact(self):
         return "I learn by breaking things — and making them better 🔧"
@@ -221,24 +221,11 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 </div>
 
-<!-- ══ GREEN SQUARES CONTRIBUTION HEATMAP ══ -->
+
+<!-- ══ TROPHIES — using alternative service ══ -->
 <div align="center">
 
-[![Contribution Heatmap](https://ghchart.rshah.org/C9963A/N-ostalgia)](https://github.com/N-ostalgia)
-
-</div>
-
-<!-- ══ ACTIVITY GRAPH ══ -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N-ostalgia&bg_color=0D1117&color=C9963A&line=C9963A&point=F0EDE6&area=true&hide_border=true&area_color=C9963A20&title_color=C9963A&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- ══ TROPHIES — using volunteer mirror since main instance has load issues ══ -->
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=N-ostalgia&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://gist.githubusercontent.com/N-ostalgia/placeholder/raw/trophies.svg?username=N-ostalgia&theme=tokyonight&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
