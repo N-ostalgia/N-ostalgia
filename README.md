@@ -221,12 +221,6 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 </div>
 
-<div align="center">
-
-[![Contribution Heatmap](https://ghchart.rshah.org/C9963A/N-ostalgia)](https://github.com/N-ostalgia)
-
-</div>
-
 ---
 
 ## 📜 Certifications
@@ -235,22 +229,9 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 | 🏅 Certificate | 🏢 Issuer | 📅 | 🔗 |
 |:---|:---|:---:|:---:|
-| 🛡️ **Certified in Cybersecurity (CC)** | ISC² | 2024 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/F98P7VO2RBNO) |
-| 🔐 **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2024 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/YUA8MZCDF0EO) |
-| 🌐 **Networking Basics** | Cisco | 2024 | — |
-| 🔍 **OSINT Fundamentals** | Independent | 2024 | — |
-
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-C9963A?style=for-the-badge&labelColor=0A0907)
-![French](https://img.shields.io/badge/French-Fluent-C9963A?style=for-the-badge&labelColor=0A0907)
-![English](https://img.shields.io/badge/English-Fluent-C9963A?style=for-the-badge&labelColor=0A0907)
+| 🛡️ **Certified in Cybersecurity (CC)** | ISC² | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/F98P7VO2RBNO) |
+| 🔐 **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/YUA8MZCDF0EO) |
+| 🔍 **OSINT Fundamentals** | Independent | 2026 | — |
 
 </div>
 
