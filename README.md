@@ -221,13 +221,9 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 </div>
 
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=N-ostalgia&color=C9963A&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/N-ostalgia?style=flat-square&color=C9963A)
-![GitHub Stars](https://img.shields.io/github/stars/N-ostalgia?style=flat-square&color=C9963A)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/N-ostalgia?style=flat-square&color=C9963A)
+[![Contribution Heatmap](https://ghchart.rshah.org/C9963A/N-ostalgia)](https://github.com/N-ostalgia)
 
 </div>
 
