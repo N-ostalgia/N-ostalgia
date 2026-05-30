@@ -221,11 +221,10 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 </div>
 
-<!-- ══ TROPHIES — ══ -->
+<!-- ══ TROPHIES ══ --> 
 <div align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=N-ostalgia&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies" width="800"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=N-ostalgia&theme=juicyfresh&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies" width="800"/>
 </div>
----
 
 ## 📜 Certifications
 
