@@ -120,55 +120,109 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
       <h3>🔐 Network Intrusion Detection System</h3>
       <img src="https://img.shields.io/badge/AI-Cybersecurity-C9963A?style=flat-square"/>
       <img src="https://img.shields.io/badge/F1--score-99.6%25-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/~30ms-per_flow-C9963A?style=flat-square"/>
       <br/><br/>
-      <p>Real-time NIDS detecting <b>12+ attack types</b>. XGBoost model served via FastAPI; React dashboard with WebSocket live monitoring.</p>
+      <p>
+        End-to-end network security pipeline: live traffic captured via <b>tshark</b>,
+        processed through <b>CICFlowMeter</b> into 116 flow features, classified by an
+        <b>XGBoost model</b> (99.6% F1) served on <b>FastAPI</b>, and streamed to a
+        <b>React dashboard</b> via WebSockets in ~30ms per flow.
+      </p>
+      <p>
+        Detects 12+ attack types including DDoS, DoS variants (Hulk, GoldenEye,
+        SlowHTTP), Brute Force (FTP/SSH/Web), Port Scanning, Botnet, and XSS.
+        Full alert CRUD system with automated report generation and three analysis
+        modes: live capture, PCAP upload, and CSV batch.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/tshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CICFlowMeter-00599C?style=flat-square"/>
       </p>
       <a href="https://github.com/N-ostalgia/NIDS"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ POI Explorer</h3>
-      <img src="https://img.shields.io/badge/Desktop-Algorithms-C9963A?style=flat-square"/>
+      <h3>🗺️ POI Explorer Pro</h3>
+      <img src="https://img.shields.io/badge/Desktop-Multi--View_App-C9963A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OSM-Overpass_API-C9963A?style=flat-square"/>
       <br/><br/>
-      <p>Desktop mapping app with optimised itinerary using <b>Greedy, A*, and Genetic algorithms</b>. Real-time 2D robot animation.</p>
+      <p>
+        Full-featured JavaFX desktop application for POI discovery and tour planning,
+        backed by real <b>OpenStreetMap data</b> via the Overpass API. Supports three
+        visit modes — manual, guided, and automatic — each with configurable duration,
+        difficulty, and category filters.
+      </p>
+      <p>
+        Tour routes are optimised using a choice of <b>Greedy, A*, or Genetic
+        algorithms</b>. A dedicated navigation panel provides step-by-step instructions
+        with distance-aware prompts, progress tracking, and performance metrics (avg
+        speed, time per POI). The app features a <b>synchronised 2D map + 3D robot
+        animation view</b> with smooth fade transitions and full state persistence
+        across views.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Overpass_API-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/A*-C9963A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Genetic_Algo-6DB33F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Genetic_Algo-C9963A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Greedy-C9963A?style=flat-square"/>
       </p>
       <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Visual E-Commerce Search (CBIR)</h3>
-      <img src="https://img.shields.io/badge/Computer_Vision-Flask-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>Image similarity search using <b>ResNet50</b> feature extraction. Upload a product photo, get visually similar results ranked by cosine similarity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=keras&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-      </p>
-      <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-    <td width="50%" valign="top">
       <h3>📚 StudyBuddy — AI Study Assistant</h3>
       <img src="https://img.shields.io/badge/Desktop-C%2B%2B%2FQt-C9963A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cross--platform-Windows%2FmacOS%2FLinux-C9963A?style=flat-square"/>
       <br/><br/>
-      <p>Cross-platform desktop with real-time <b>focus tracking (OpenCV)</b>, Gemini AI tips, Pomodoro timer, and gamified achievements.</p>
+      <p>
+        Cross-platform desktop productivity app built in <b>C++/Qt 6</b>. Uses
+        <b>OpenCV</b> to track eye and face presence in real time and compute a
+        0–100% focus score per session. Integrates the <b>Gemini API</b> for
+        context-aware study tips derived from actual session data, not generic advice.
+      </p>
+      <p>
+        Includes a Pomodoro timer with desktop notifications, a smart calendar planner
+        that schedules sessions around free time, a gamified achievement and streak
+        system, and a post-session survey for distraction tracking. All data persisted
+        in a unified <b>SQLite</b> schema covering sessions, goals, achievements,
+        surveys, and calendar entries.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Visual E-Commerce Search (CBIR)</h3>
+      <img src="https://img.shields.io/badge/Computer_Vision-Flask-C9963A?style=flat-square"/>
+      <br/><br/>
+      <p>
+        Content-based image retrieval engine for e-commerce. Extracts deep feature
+        vectors from product images using a pre-trained <b>ResNet50</b> backbone
+        (ImageNet weights, 2048-dim output), then ranks the product database by
+        <b>cosine similarity</b> to return the most visually similar results.
+      </p>
+      <p>
+        Flask REST API handles image intake and feature comparison; React frontend
+        provides the upload interface and displays ranked results in a product grid.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=keras&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+        <img src="https://img.shields.io/badge/Cosine_Similarity-C9963A?style=flat-square"/>
       </p>
       <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
     </td>
@@ -176,14 +230,28 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 Teaching Assignment System</h3>
-      <img src="https://img.shields.io/badge/Full--Stack_Web-PHP-C9963A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Institutional_Tool-PHP-C9963A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/5_roles-real_deployment-C9963A?style=flat-square"/>
       <br/><br/>
-      <p>Web platform with <b>5-role auth</b> automating teaching unit assignments. Workload balancing, Excel import/export, and reports.</p>
+      <p>
+        Web platform built to automate and centralise the assignment of teaching units
+        (UE) across academic departments — a real institutional problem at ENSAH.
+        Supports <b>five distinct roles</b> (Admin, Department Head, Coordinator,
+        Teacher, Adjunct) each with their own permission scope and dashboard.
+      </p>
+      <p>
+        Features automatic workload balancing with colour-coded load visualisation
+        (under-loaded teachers surfaced first), a wish-submission and approval queue,
+        vacant UE routing to adjunct staff, Excel import/export, PHPMailer
+        notifications, timetable generation, grade management, and full
+        cross-year historical reporting.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHPMailer-777BB4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Excel_I%2FO-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
       </p>
       <a href="https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
     </td>
@@ -191,12 +259,23 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
       <h3>🏦 C Banking System</h3>
       <img src="https://img.shields.io/badge/Systems-Pure_C-C9963A?style=flat-square"/>
       <br/><br/>
-      <p>CLI banking in <b>pure C</b> with SQLite. Dual-role (Admin/Client), full transaction engine, demand queue, and Gnuplot charts.</p>
+      <p>
+        Command-line banking application in <b>pure C</b> with SQLite persistence.
+        Dual-role system (Admin / Client) with a 14-option client menu covering
+        deposits, withdrawals, transfers, bill payment, and mobile recharges across
+        three operators.
+      </p>
+      <p>
+        Includes a demand queue system where account creation, modification, and
+        cheque book requests are submitted by clients and approved or rejected by the
+        admin. Transaction history visualised as charts via <b>Gnuplot</b>.
+        Passwords stored in plaintext — intentionally documented as demo-only.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gnuplot-C9963A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCC%2FMakefile-A42E2B?style=flat-square&logo=gnu&logoColor=white"/>
       </p>
       <a href="https://github.com/N-ostalgia/C_Banking_System"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
     </td>
@@ -204,7 +283,6 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 </table>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
