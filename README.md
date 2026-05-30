@@ -221,9 +221,9 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 </div>
 
-<!-- ══ TROPHIES — using gitsetup mirror ══ -->
+<!-- ══ TROPHIES — ══ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N-ostalgia/github-stats/master/generated/trophies.svg" alt="GitHub Trophies" width="800"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=N-ostalgia&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies" width="800"/>
 </div>
 ---
 
