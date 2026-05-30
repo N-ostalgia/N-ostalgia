@@ -222,10 +222,12 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 </div>
 
 
-<!-- ══ TROPHIES — using alternative service ══ -->
 <div align="center">
 
-[![GitHub Trophies](https://gist.githubusercontent.com/N-ostalgia/placeholder/raw/trophies.svg?username=N-ostalgia&theme=tokyonight&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=N-ostalgia&color=C9963A&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/N-ostalgia?style=flat-square&color=C9963A)
+![GitHub Stars](https://img.shields.io/github/stars/N-ostalgia?style=flat-square&color=C9963A)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/N-ostalgia?style=flat-square&color=C9963A)
 
 </div>
 
