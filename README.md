@@ -1,25 +1,52 @@
 <div align="center">
 
-![hero](assets/hero.svg)
+<!-- ══════════════ ASCII HEADER ══════════════ -->
+```
+  ▄████████  ▄█   ▄█          ▄████████ ████████▄     ▄████████    ▄████████ 
+ ███    ███ ███  ███         ███    ███ ███   ▀███   ███    ███   ███    ███ 
+ ███    █▀  ███▌ ███         ███    █▀  ███    ███   ███    █▀    ███    █▀  
+ ███        ███▌ ███        ▄███▄▄▄     ███    ███  ▄███▄▄▄      ▄███▄▄▄     
+▀███████████ ███▌ ███       ▀▀███▀▀▀     ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀     
+         ███ ███  ███         ███    █▄  ███    ███   ███    █▄    ███    █▄  
+   ▄█    ███ ███  ███▌    ▄   ███    ███ ███   ▄███   ███    ███   ███    ███ 
+ ▄████████▀  █▀   █████▄▄██   ██████████ ████████▀    ██████████   ██████████ 
+                 ▀                                                             
+```
+
+```
+ ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌
+▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+          ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌
+▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+```
+
+**FULL-STACK DEV · AI/ML · CYBERSECURITY · MOROCCO 🇲🇦**
 
 <br/>
 
+<!-- ══════════════ TYPING EFFECT ══════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=700&lines=4TH-YEAR+CS+ENG+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+%C2%B7+AI%2FML+%C2%B7+Cybersecurity+%C2%B7+Systems;Open+to+PFA+Internship+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-0A0A0F?style=for-the-badge&logoColor=00F5FF&logo=firefox&labelColor=0A0A0F&color=00F5FF)](https://aya-bouibauan-portfolio.netlify.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF2D78&labelColor=0A0A0F&color=FF2D78)](https://www.linkedin.com/in/aya-bouibauan-a12a04201)&nbsp;
-[![GitHub](https://img.shields.io/badge/▶_GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F&color=FFA500)](https://github.com/N-ostalgia)&nbsp;
+<!-- ══════════════ SOCIAL LINKS ══════════════ -->
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-0A0A0F?style=for-the-badge&logo=firefox&logoColor=00F5FF&labelColor=0A0A0F&color=00F5FF)](https://aya-bouibauan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF2D78&labelColor=0A0A0F&color=FF2D78)](https://www.linkedin.com/in/aya-bouibauan-a12a04201)
+[![GitHub](https://img.shields.io/badge/▶_GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F&color=FFA500)](https://github.com/N-ostalgia)
 [![Email](https://img.shields.io/badge/▶_EMAIL-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0A0A0F&color=00F5FF)](mailto:aya.bouibauan@etu.uae.ac.ma)
-
-![views](https://komarev.com/ghpvc/?username=N-ostalgia&style=flat-square&color=00F5FF&label=PROFILE+VIEWS&labelColor=0A0A0F)
 
 </div>
 
-<br/>
+---
 
-![stats](assets/stats-banner.svg)
+## ▶ PLAYER 1 — LOADING PROFILE...
 
 ```json
 {
@@ -33,125 +60,118 @@
 }
 ```
 
-<br/>
+---
 
-![missions](assets/missions-banner.svg)
+## 🚀 FEATURED MISSIONS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- PROJECT 01 -->
+<details>
+<summary><b>🔐 [01] NETWORK INTRUSION DETECTION SYSTEM</b> · AI · CYBERSECURITY</summary>
 
-**`[01]`** 🔐 **Network Intrusion Detection System**
+| Metric | Value |
+|--------|-------|
+| F1 Score | **99.6%** |
+| Latency | **~30ms** per flow |
+| Attack Types | **12+** (DDoS, DoS, Brute Force, Botnet, XSS, etc.) |
 
-![](https://img.shields.io/badge/AI-0A0A0F?style=flat-square&labelColor=0A0A0F&color=0A0A0F&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB2aWV3Qm94PSIwIDAgMSAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
-![](https://img.shields.io/badge/F1_Score-99.6%25-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Latency-~30ms-FF2D78?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/12+_Attack_Types-FFA500?style=flat-square&labelColor=0A0A0F)
+End-to-end network security pipeline. Live traffic via **tshark** → **CICFlowMeter** (116 features) → **XGBoost** (99.6% F1) → **FastAPI** → **React** dashboard via WebSockets.
 
-End-to-end network security pipeline. Live traffic via **tshark** → **CICFlowMeter** (116 features) → **XGBoost** (99.6% F1) → **FastAPI** → **React** dashboard via WebSockets in ~30ms.
+**Stack:** `Python` `FastAPI` `XGBoost` `React` `WebSockets` `tshark` `CICFlowMeter`
 
-Detects DDoS, DoS variants, Brute Force (FTP/SSH/Web), Port Scanning, Botnet, XSS. Full alert CRUD + automated reports. Three modes: live capture, PCAP upload, CSV batch.
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0A0A0F)](https://github.com/N-ostalgia/NIDS)
+</details>
 
-`Python` `FastAPI` `XGBoost` `React` `WebSockets` `tshark` `CICFlowMeter`
+<!-- PROJECT 02 -->
+<details>
+<summary><b>🗺️ [02] POI EXPLORER PRO</b> · DESKTOP · ALGORITHMS</summary>
 
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0A0A0F)](https://github.com/N-ostalgia/NIDS)
+| Feature | Description |
+|---------|-------------|
+| Algorithms | **Greedy, A\*, Genetic** |
+| Data Source | **OpenStreetMap** (live) |
+| Views | **2D Map + 3D Robot** Animation |
 
-</td>
-<td width="50%" valign="top">
+Full-featured **JavaFX** desktop app for tour planning. Three visit modes: manual, guided, automatic. Routes via Greedy, A\*, or Genetic algorithms.
 
-**`[02]`** 🗺️ **POI Explorer Pro**
+**Stack:** `Java` `JavaFX` `Overpass API` `A*` `Genetic Algo` `Greedy`
 
-![](https://img.shields.io/badge/3_Algorithm_Modes-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/OSM_Live_Data-FFA500?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/2D+3D_Views-FF2D78?style=flat-square&labelColor=0A0A0F)
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+</details>
 
-Full-featured **JavaFX** desktop app for tour planning on real **OpenStreetMap data**. Three visit modes (manual, guided, automatic). Routes via **Greedy, A\*, or Genetic algorithms**.
+<!-- PROJECT 03 -->
+<details>
+<summary><b>📚 [03] STUDYBUDDY — AI STUDY ASSISTANT</b> · DESKTOP · AI · C++</summary>
 
-Step-by-step navigation with distance-aware prompts, perf metrics, progress tracking. Synchronised **2D map + 3D robot animation** with smooth fade transitions.
+| Feature | Status |
+|---------|--------|
+| Real-time CV | ✅ OpenCV face/eye tracking |
+| Focus Score | **0–100%** per session |
+| AI Integration | **Gemini API** for study tips |
+| Platform | **Cross-platform** (C++/Qt 6) |
 
-`Java` `JavaFX` `Overpass API` `A*` `Genetic Algo` `Greedy`
+C++/Qt 6 desktop app with OpenCV for presence tracking. Gamified with achievements and streak system.
 
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+**Stack:** `C++` `Qt 6` `OpenCV` `Gemini API` `SQLite`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2D78&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+</details>
 
-**`[03]`** 📚 **StudyBuddy — AI Study Assistant**
+<!-- PROJECT 04 -->
+<details>
+<summary><b>🛍️ [04] VISUAL E-COMMERCE SEARCH (CBIR)</b> · COMPUTER VISION · FLASK</summary>
 
-![](https://img.shields.io/badge/Real--Time_CV-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Focus_Score_0--100%25-FF2D78?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Cross--Platform-FFA500?style=flat-square&labelColor=0A0A0F)
+| Feature | Value |
+|---------|-------|
+| Model | **ResNet50** (ImageNet) |
+| Feature Dim | **2048** |
+| Similarity | **Cosine** |
+| Architecture | Flask API + React Frontend |
 
-**C++/Qt 6** desktop app. **OpenCV** tracks eye/face presence in real time → computes 0–100% focus score. **Gemini API** generates context-aware tips from your actual session data.
+Content-based image retrieval using deep feature vectors. Product database ranked by cosine similarity.
 
-Pomodoro timer, smart calendar planner, gamified achievements + streak system, post-session distraction surveys. Unified **SQLite** schema.
+**Stack:** `ResNet50` `Flask` `React` `NumPy` `Keras`
 
-`C++` `Qt 6` `OpenCV` `Gemini API` `SQLite`
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+</details>
 
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2D78&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+<!-- PROJECT 05 -->
+<details>
+<summary><b>🏫 [05] TEACHING ASSIGNMENT SYSTEM</b> · INSTITUTIONAL TOOL · PHP</summary>
 
-</td>
-<td width="50%" valign="top">
+| Feature | Description |
+|---------|-------------|
+| Roles | **5** (Admin, Dept Head, Coordinator, Teacher, Adjunct) |
+| Deployment | **Real institutional use** @ ENSAH |
+| Features | Auto-load balancing, Excel I/O, PHPMailer |
 
-**`[04]`** 🛍️ **Visual E-Commerce Search (CBIR)**
+Real institutional problem solved. Web-based assignment of teaching units across departments.
 
-![](https://img.shields.io/badge/2048--dim_Features-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/ResNet50_Backbone-FF2D78?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Cosine_Similarity-FFA500?style=flat-square&labelColor=0A0A0F)
+**Stack:** `PHP` `MySQL` `Bootstrap` `PHPMailer` `Excel I/O`
 
-Content-based image retrieval. **ResNet50** (ImageNet, 2048-dim) extracts feature vectors; database ranked by **cosine similarity**.
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F)](https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php)
+</details>
 
-Flask REST API handles intake and comparison. React frontend for upload + ranked product grid display.
+<!-- PROJECT 06 -->
+<details>
+<summary><b>🏦 [06] C BANKING SYSTEM</b> · SYSTEMS · PURE C</summary>
 
-`ResNet50` `Flask` `React` `NumPy` `Keras`
+| Feature | Description |
+|---------|-------------|
+| Language | **Pure C** |
+| Roles | **Admin / Client** dual-role |
+| Visualization | **Gnuplot** charts |
+| Persistence | **SQLite** |
 
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0A0A0F)](https://github.com/N-ostalgia)
+Command-line banking with 14-option client menu: deposits, withdrawals, transfers, bill payments.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Stack:** `C` `SQLite` `Gnuplot` `GCC/Makefile`
 
-**`[05]`** 🏫 **Teaching Assignment System**
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2D78&labelColor=0A0A0F)](https://github.com/N-ostalgia/C_Banking_System)
+</details>
 
-![](https://img.shields.io/badge/5_Roles-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Real_Deployment-FF2D78?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/ENSAH-FFA500?style=flat-square&labelColor=0A0A0F)
+---
 
-Real institutional problem → working solution. Five roles (Admin, Dept Head, Coordinator, Teacher, Adjunct), each with own permission scope and dashboard.
-
-Auto workload balancing with colour-coded visualisation, wish-submission queue, Excel I/O, PHPMailer, timetable + grade management.
-
-`PHP` `MySQL` `Bootstrap` `PHPMailer` `Excel I/O`
-
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FFA500&labelColor=0A0A0F)](https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php)
-
-</td>
-<td width="50%" valign="top">
-
-**`[06]`** 🏦 **C Banking System**
-
-![](https://img.shields.io/badge/Pure_C-00F5FF?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Dual_Role_System-FF2D78?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/Gnuplot_Charts-FFA500?style=flat-square&labelColor=0A0A0F)
-
-Command-line banking in **pure C** with SQLite. Admin / Client dual-role, 14-option menu: deposits, withdrawals, transfers, bill payments, mobile recharges.
-
-Demand queue for account creation + cheque book requests. Transaction history visualised via **Gnuplot**.
-
-`C` `SQLite` `Gnuplot` `GCC/Makefile`
-
-[![](https://img.shields.io/badge/▶_VIEW_CODE-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2D78&labelColor=0A0A0F)](https://github.com/N-ostalgia/C_Banking_System)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![work](assets/work-banner.svg)
+## 💼 WORK HISTORY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -168,83 +188,46 @@ Demand queue for account creation + cheque book requests. Transaction history vi
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+---
 
-![inventory](assets/inventory-banner.svg)
+## 🛠️ INVENTORY
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=00F5FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=00F5FF)
-![Flask](https://img.shields.io/badge/Flask-0A0A0F?style=flat-square&logo=flask&logoColor=00F5FF)
-![Java](https://img.shields.io/badge/Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=FFA500)
-![Spring](https://img.shields.io/badge/Spring-0A0A0F?style=flat-square&logo=spring&logoColor=FFA500)
-![C++](https://img.shields.io/badge/C++-0A0A0F?style=flat-square&logo=cplusplus&logoColor=FF2D78)
-![C](https://img.shields.io/badge/C-0A0A0F?style=flat-square&logo=c&logoColor=FF2D78)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=flat-square&logo=nodedotjs&logoColor=00F5FF)
-![PHP](https://img.shields.io/badge/PHP-0A0A0F?style=flat-square&logo=php&logoColor=FFA500)
+| Category | Tech Stack |
+|----------|------------|
+| **Backend** | ![Python](https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=00F5FF) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=00F5FF) ![Flask](https://img.shields.io/badge/Flask-0A0A0F?style=flat-square&logo=flask&logoColor=00F5FF) ![Java](https://img.shields.io/badge/Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=FFA500) ![Spring](https://img.shields.io/badge/Spring-0A0A0F?style=flat-square&logo=spring&logoColor=FFA500) ![C++](https://img.shields.io/badge/C++-0A0A0F?style=flat-square&logo=cplusplus&logoColor=FF2D78) ![C](https://img.shields.io/badge/C-0A0A0F?style=flat-square&logo=c&logoColor=FF2D78) ![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=flat-square&logo=nodedotjs&logoColor=00F5FF) ![PHP](https://img.shields.io/badge/PHP-0A0A0F?style=flat-square&logo=php&logoColor=FFA500) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0A0A0F?style=flat-square&logo=react&logoColor=00F5FF) ![Electron](https://img.shields.io/badge/Electron-0A0A0F?style=flat-square&logo=electron&logoColor=00F5FF) ![HTML5](https://img.shields.io/badge/HTML5-0A0A0F?style=flat-square&logo=html5&logoColor=FF2D78) ![CSS3](https://img.shields.io/badge/CSS3-0A0A0F?style=flat-square&logo=css3&logoColor=FF2D78) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=FFA500) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0F?style=flat-square&logo=tensorflow&logoColor=FFA500) ![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=flat-square&logo=opencv&logoColor=00F5FF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0F?style=flat-square&logo=scikitlearn&logoColor=FF2D78) ![XGBoost](https://img.shields.io/badge/XGBoost-0A0A0F?style=flat-square&logoColor=FFA500) ![Keras](https://img.shields.io/badge/Keras-0A0A0F?style=flat-square&logo=keras&logoColor=FF2D78) ![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=00F5FF) ![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=flat-square&logo=numpy&logoColor=00F5FF) |
+| **Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0F?style=flat-square&logo=wireshark&logoColor=00F5FF) ![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0F?style=flat-square&logoColor=FF2D78) ![Snort](https://img.shields.io/badge/Snort-0A0A0F?style=flat-square&logoColor=FF2D78) ![nmap](https://img.shields.io/badge/nmap-0A0A0F?style=flat-square&logoColor=FFA500) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=flat-square&logo=mysql&logoColor=FFA500) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=00F5FF) ![SQLite](https://img.shields.io/badge/SQLite-0A0A0F?style=flat-square&logo=sqlite&logoColor=00F5FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=flat-square&logo=mongodb&logoColor=00F5FF) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-0A0A0F?style=flat-square&logo=git&logoColor=FF2D78) ![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=flat-square&logo=docker&logoColor=00F5FF) ![Linux](https://img.shields.io/badge/Linux-0A0A0F?style=flat-square&logo=linux&logoColor=FFA500) ![Jira](https://img.shields.io/badge/Jira-0A0A0F?style=flat-square&logo=jira&logoColor=00F5FF) |
 
-**Frontend**
-![React](https://img.shields.io/badge/React-0A0A0F?style=flat-square&logo=react&logoColor=00F5FF)
-![Electron](https://img.shields.io/badge/Electron-0A0A0F?style=flat-square&logo=electron&logoColor=00F5FF)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0F?style=flat-square&logo=html5&logoColor=FF2D78)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0F?style=flat-square&logo=css3&logoColor=FF2D78)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=FFA500)
-![Figma](https://img.shields.io/badge/Figma-0A0A0F?style=flat-square&logo=figma&logoColor=FFA500)
+---
 
-**AI & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0F?style=flat-square&logo=tensorflow&logoColor=FFA500)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=flat-square&logo=opencv&logoColor=00F5FF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0F?style=flat-square&logo=scikitlearn&logoColor=FF2D78)
-![XGBoost](https://img.shields.io/badge/XGBoost-0A0A0F?style=flat-square&logoColor=FFA500)
-![Keras](https://img.shields.io/badge/Keras-0A0A0F?style=flat-square&logo=keras&logoColor=FF2D78)
-![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=00F5FF)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=flat-square&logo=numpy&logoColor=00F5FF)
+## 📜 ACHIEVEMENTS
 
-**Security & Networking**
-![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0F?style=flat-square&logo=wireshark&logoColor=00F5FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0F?style=flat-square&logoColor=FF2D78)
-![Snort](https://img.shields.io/badge/Snort-0A0A0F?style=flat-square&logoColor=FF2D78)
-![nmap](https://img.shields.io/badge/nmap-0A0A0F?style=flat-square&logoColor=FFA500)
-![Hydra](https://img.shields.io/badge/Hydra-0A0A0F?style=flat-square&logoColor=FF2D78)
-![CICFlowMeter](https://img.shields.io/badge/CICFlowMeter-0A0A0F?style=flat-square&logoColor=00F5FF)
+| 🏅 | Certificate | Issuer | Year |
+|:---:|:---|:---|:---:|
+| 🛡️ | **Certified in Cybersecurity (CC)** | ISC² | 2025 |
+| 🔐 | **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 |
+| 🔍 | **OSINT Fundamentals** | Independent | 2026 |
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=flat-square&logo=mysql&logoColor=FFA500)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=00F5FF)
-![SQLite](https://img.shields.io/badge/SQLite-0A0A0F?style=flat-square&logo=sqlite&logoColor=00F5FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=flat-square&logo=mongodb&logoColor=00F5FF)
+---
 
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-0A0A0F?style=flat-square&logo=git&logoColor=FF2D78)
-![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=flat-square&logo=docker&logoColor=00F5FF)
-![Linux](https://img.shields.io/badge/Linux-0A0A0F?style=flat-square&logo=linux&logoColor=FFA500)
-![Jira](https://img.shields.io/badge/Jira-0A0A0F?style=flat-square&logo=jira&logoColor=00F5FF)
-
-<br/>
-
-![achievements](assets/achievements-banner.svg)
-
-| | Certificate | Issuer | Year | Link |
-|:---:|:---|:---|:---:|:---:|
-| 🏅 | **Certified in Cybersecurity (CC)** | ISC² | 2025 | [![](https://img.shields.io/badge/VIEW-0A0A0F?style=flat-square&logoColor=00F5FF)](https://www.coursera.org/account/accomplishments/specialization/F98P7VO2RBNO) |
-| 🏅 | **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 | [![](https://img.shields.io/badge/VIEW-0A0A0F?style=flat-square&logoColor=00F5FF)](https://www.coursera.org/account/accomplishments/specialization/YUA8MZCDF0EO) |
-| 🏅 | **OSINT Fundamentals** | Independent | 2026 | — |
-
-<br/>
-
-![github-stats-section](assets/stats-section-banner.svg)
+## 📊 GITHUB STATS
 
 <div align="center">
 
-![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=N-ostalgia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=FF2D78&text_color=888888&bg_color=0A0A0F)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=N-ostalgia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=FF2D78&text_color=888888&bg_color=0A0A0F)
 &nbsp;
-![langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-ostalgia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=888888&bg_color=0A0A0F)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-ostalgia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=888888&bg_color=0A0A0F)
 
-![streak](https://github-readme-streak-stats-eight.vercel.app?user=N-ostalgia&theme=tokyonight&hide_border=true&background=0A0A0F&ring=00F5FF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=FFA500&dates=555555&currStreakNum=F0ECE3&sideNums=F0ECE3&stroke=00F5FF)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=N-ostalgia&theme=tokyonight&hide_border=true&background=0A0A0F&ring=00F5FF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=FFA500&dates=555555&currStreakNum=F0ECE3&sideNums=F0ECE3&stroke=00F5FF)
 
 </div>
 
-<br/>
+---
+
+## 🎮 CONTROLS
 
 <div align="center">
 
