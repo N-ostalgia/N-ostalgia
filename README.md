@@ -1,318 +1,253 @@
+# 🎮 AYA BOUIBAUAN · ARCADE PROFILE
+
 <div align="center">
 
-<!-- ══════════════ HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=180&section=header&text=Aya%20Bouibauan&fontSize=52&fontColor=0A0907&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=15&descAlignY=58&descColor=0A0907&animation=twinkling" width="100%"/>
+<!-- ════════ PIXEL HEADER ════════ -->
+```
+  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌
+ ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌
+  ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+           ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+  ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌
+ ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+```
 
-<!-- ══════════════ TYPING ══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=700&lines=4th-year+CS+Engineering+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+Developer+%7C+Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;Building+systems%2C+not+just+features.;Open+to+PFA+Internship+%C2%B7+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+```
+  █████╗ ██╗   ██╗ █████╗ 
+ ██╔══██╗╚██╗ ██╔╝██╔══██╗
+ ███████║ ╚████╔╝ ███████║
+ ██╔══██║  ╚██╔╝  ██╔══██║
+ ██║  ██║   ██║   ██║  ██║
+ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<br/>
+**Full-Stack Developer · AI/ML · Cybersecurity · Morocco 🇲🇦**
 
-<!-- ══════════════ SOCIAL BADGES ══════════════ -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-C9963A?style=for-the-badge&labelColor=0A0907)](https://aya-bouibauan-portfolio.netlify.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0907)](https://www.linkedin.com/in/aya-bouibauan-a12a04201)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-N--ostalgia-C9963A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0907)](https://github.com/N-ostalgia)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-C9963A?style=for-the-badge&logo=gmail&logoColor=0A0907&labelColor=0A0907)](mailto:aya.bouibauan@etu.uae.ac.ma)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=N-ostalgia&style=for-the-badge&color=C9963A&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=0A0A0F&color=00F5FF)](https://aya-bouibauan-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-FF2D78?style=for-the-badge&labelColor=0A0A0F&color=FF2D78)](https://www.linkedin.com/in/aya-bouibauan-a12a04201)
+[![GitHub](https://img.shields.io/badge/▶_GITHUB-FFA500?style=for-the-badge&labelColor=0A0A0F&color=FFA500)](https://github.com/N-ostalgia)
+[![Email](https://img.shields.io/badge/▶_EMAIL-00F5FF?style=for-the-badge&labelColor=0A0A0F&color=00F5FF)](mailto:aya.bouibauan@etu.uae.ac.ma)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🕹️ PLAYER STATS
 
-```python
-class AyaBouibauan:
-    def __init__(self):
-        self.name       = "Aya Bouibauan"
-        self.alias      = "N-ostalgia"
-        self.school     = "ENSAH · Computer Science Engineering (4th year)"
-        self.location   = "Al Hoceima, Morocco 🇲🇦"
-        self.languages  = ["Arabic (native)", "French", "English"]
-        self.focus      = ["Full-Stack Dev", "AI/ML", "Cybersecurity", "Systems"]
-        self.seeking    = "PFA Internship · 2026 "
-
-    def fun_fact(self):
-        return "I learn by breaking things — and making them better 🔧"
+```json
+{
+  "name":       "Aya Bouibauan",
+  "alias":      "N-ostalgia",
+  "school":     "ENSAH · CS Engineering (4th year)",
+  "location":   "Al Hoceima, Morocco 🇲🇦",
+  "focus":      ["Full-Stack", "AI/ML", "Cybersecurity", "Systems"],
+  "seeking":    "PFA Internship 2026 🚀",
+  "fun_fact":   "I learn by breaking things — and making them better 🔧"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ INVENTORY
 
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring,cpp,c,nodejs,electron,php&theme=dark" />
-</p>
+### Backend
+```
+🐍 Python  ⚡ FastAPI  🌶️ Flask  ☕ Java  🍃 Spring
+🔷 C/C++  🟢 Node.js  ⚛️ Electron  🐘 PHP
+```
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,figma&theme=dark" />
-</p>
+### Frontend
+```
+⚛️ React  🌐 HTML5  🎨 CSS3  📜 JavaScript  🎯 Figma
+```
 
-**AI & Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+### AI & Data Science
+```
+🧠 TensorFlow  👁️ OpenCV  📊 Scikit-learn  🚀 XGBoost
+🐼 pandas  🔢 NumPy  🧬 Keras  🏗️ ResNet50  🕸️ BeautifulSoup
+```
 
-**Security & Networking**
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nmap-004B87?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CICFlowMeter-00599C?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-</p>
+### Security & Networking
+```
+🔍 Wireshark  📡 tshark  🗺️ nmap  💀 Metasploit
+🛡️ Snort  🔑 Hydra  📊 CICFlowMeter  🔌 WebSockets
+```
 
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
-</p>
+### Databases
+```
+🐬 MySQL  🐘 PostgreSQL  🪶 SQLite  🍃 MongoDB
+```
 
-**Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-C9963A?style=flat-square&logoColor=white"/>
-</p>
+### Tools & DevOps
+```
+🐙 Git  🐱 GitHub  🐳 Docker  🐧 Linux  📝 VS Code
+🎯 Figma  📋 Jira  🔗 REST API  📈 Agile/Scrum
+```
 
 ---
 
-## 💼 Work Experience
+## 💼 WORK HISTORY
 
-**🏢 Frontend Developer Intern — XAI Technologies · Rabat, Morocco (Remote) | Aug–Oct 2025**
+### 🏢 Frontend Developer Intern · XAI Technologies · Rabat, Morocco (Remote)
+**AUG–OCT 2025**
 
 Built **X-Radar**, a network supervision desktop app providing real-time visibility on traffic, alerts, and anomalies.
-- Developed the full React.js frontend: dashboard, analytics panel, admin view, and user settings
-- Packaged as a cross-platform desktop app via Electron.js with SQLite local persistence
-- Agile workflow with Jira sprint tracking in a remote team
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,electron,sqlite&theme=dark" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS%20Modules-000?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-</p>
+```
+▸ Developed full React.js frontend: dashboard, analytics, admin view, user settings
+▸ Packaged as cross-platform desktop app via Electron.js with SQLite persistence
+▸ Agile workflow with Jira sprint tracking in a remote team
+```
+
+**Stack:** `React` `Node.js` `Electron` `SQLite` `Chart.js` `CSS Modules` `Jira`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED MISSIONS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Network Intrusion Detection System</h3>
-      <img src="https://img.shields.io/badge/AI-Cybersecurity-C9963A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/F1--score-99.6%25-brightgreen?style=flat-square"/>
-      <img src="https://img.shields.io/badge/~30ms-per_flow-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        End-to-end network security pipeline: live traffic captured via <b>tshark</b>,
-        processed through <b>CICFlowMeter</b> into 116 flow features, classified by an
-        <b>XGBoost model</b> (99.6% F1) served on <b>FastAPI</b>, and streamed to a
-        <b>React dashboard</b> via WebSockets in ~30ms per flow.
-      </p>
-      <p>
-        Detects 12+ attack types including DDoS, DoS variants (Hulk, GoldenEye,
-        SlowHTTP), Brute Force (FTP/SSH/Web), Port Scanning, Botnet, and XSS.
-        Full alert CRUD system with automated report generation and three analysis
-        modes: live capture, PCAP upload, and CSV batch.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/tshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CICFlowMeter-00599C?style=flat-square"/>
-      </p>
-      <a href="https://github.com/N-ostalgia/NIDS"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ POI Explorer Pro</h3>
-      <img src="https://img.shields.io/badge/Desktop-Multi--View_App-C9963A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OSM-Overpass_API-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        Full-featured JavaFX desktop application for POI discovery and tour planning,
-        backed by real <b>OpenStreetMap data</b> via the Overpass API. Supports three
-        visit modes — manual, guided, and automatic — each with configurable duration,
-        difficulty, and category filters.
-      </p>
-      <p>
-        Tour routes are optimised using a choice of <b>Greedy, A*, or Genetic
-        algorithms</b>. A dedicated navigation panel provides step-by-step instructions
-        with distance-aware prompts, progress tracking, and performance metrics (avg
-        speed, time per POI). The app features a <b>synchronised 2D map + 3D robot
-        animation view</b> with smooth fade transitions and full state persistence
-        across views.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Overpass_API-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/A*-C9963A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Genetic_Algo-C9963A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Greedy-C9963A?style=flat-square"/>
-      </p>
-      <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 StudyBuddy — AI Study Assistant</h3>
-      <img src="https://img.shields.io/badge/Desktop-C%2B%2B%2FQt-C9963A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Cross--platform-Windows%2FmacOS%2FLinux-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        Cross-platform desktop productivity app built in <b>C++/Qt 6</b>. Uses
-        <b>OpenCV</b> to track eye and face presence in real time and compute a
-        0–100% focus score per session. Integrates the <b>Gemini API</b> for
-        context-aware study tips derived from actual session data, not generic advice.
-      </p>
-      <p>
-        Includes a Pomodoro timer with desktop notifications, a smart calendar planner
-        that schedules sessions around free time, a gamified achievement and streak
-        system, and a post-session survey for distraction tracking. All data persisted
-        in a unified <b>SQLite</b> schema covering sessions, goals, achievements,
-        surveys, and calendar entries.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-      <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ Visual E-Commerce Search (CBIR)</h3>
-      <img src="https://img.shields.io/badge/Computer_Vision-Flask-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        Content-based image retrieval engine for e-commerce. Extracts deep feature
-        vectors from product images using a pre-trained <b>ResNet50</b> backbone
-        (ImageNet weights, 2048-dim output), then ranks the product database by
-        <b>cosine similarity</b> to return the most visually similar results.
-      </p>
-      <p>
-        Flask REST API handles image intake and feature comparison; React frontend
-        provides the upload interface and displays ranked results in a product grid.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=keras&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-        <img src="https://img.shields.io/badge/Cosine_Similarity-C9963A?style=flat-square"/>
-      </p>
-      <a href="https://github.com/N-ostalgia"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 Teaching Assignment System</h3>
-      <img src="https://img.shields.io/badge/Institutional_Tool-PHP-C9963A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/5_roles-real_deployment-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        Web platform built to automate and centralise the assignment of teaching units
-        (UE) across academic departments — a real institutional problem at ENSAH.
-        Supports <b>five distinct roles</b> (Admin, Department Head, Coordinator,
-        Teacher, Adjunct) each with their own permission scope and dashboard.
-      </p>
-      <p>
-        Features automatic workload balancing with colour-coded load visualisation
-        (under-loaded teachers surfaced first), a wish-submission and approval queue,
-        vacant UE routing to adjunct staff, Excel import/export, PHPMailer
-        notifications, timetable generation, grade management, and full
-        cross-year historical reporting.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHPMailer-777BB4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Excel_I%2FO-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      </p>
-      <a href="https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏦 C Banking System</h3>
-      <img src="https://img.shields.io/badge/Systems-Pure_C-C9963A?style=flat-square"/>
-      <br/><br/>
-      <p>
-        Command-line banking application in <b>pure C</b> with SQLite persistence.
-        Dual-role system (Admin / Client) with a 14-option client menu covering
-        deposits, withdrawals, transfers, bill payment, and mobile recharges across
-        three operators.
-      </p>
-      <p>
-        Includes a demand queue system where account creation, modification, and
-        cheque book requests are submitted by clients and approved or rejected by the
-        admin. Transaction history visualised as charts via <b>Gnuplot</b>.
-        Passwords stored in plaintext — intentionally documented as demo-only.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gnuplot-C9963A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GCC%2FMakefile-A42E2B?style=flat-square&logo=gnu&logoColor=white"/>
-      </p>
-      <a href="https://github.com/N-ostalgia/C_Banking_System"><img src="https://img.shields.io/badge/View_Code-C9963A?style=for-the-badge&logo=github&logoColor=0A0907"/></a>
-    </td>
-  </tr>
-</table>
+### 01. 🔐 Network Intrusion Detection System
+**AI · Cybersecurity**
+
+End-to-end network security pipeline: live traffic captured via `tshark`, processed through `CICFlowMeter` into 116 flow features, classified by an `XGBoost model` (99.6% F1) served on `FastAPI`, and streamed to a `React dashboard` via WebSockets in ~30ms per flow.
+
+Detects 12+ attack types including DDoS, DoS variants, Brute Force, Port Scanning, Botnet, and XSS. Full alert CRUD system with automated report generation and three analysis modes: live capture, PCAP upload, and CSV batch.
+
+```
+F1 99.6%  |  ~30ms per flow  |  12+ attack types
+```
+
+**Stack:** `Python` `FastAPI` `XGBoost` `React` `WebSockets` `tshark` `CICFlowMeter`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia/NIDS)
 
 ---
-## 📊 GitHub Stats
+
+### 02. 🗺️ POI Explorer Pro
+**Desktop · Algorithms**
+
+Full-featured JavaFX desktop application for POI discovery and tour planning, backed by real `OpenStreetMap data` via the Overpass API. Supports three visit modes — manual, guided, and automatic — each with configurable duration, difficulty, and category filters.
+
+Tour routes are optimised using a choice of `Greedy`, `A*`, or `Genetic algorithms`. Features a synchronised 2D map + 3D robot animation view with smooth fade transitions and full state persistence.
+
+```
+3 ALGO MODES  |  OSM LIVE DATA  |  2D + 3D VIEW
+```
+
+**Stack:** `Java` `JavaFX` `Overpass API` `A*` `Genetic Algo` `Greedy`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia)
+
+---
+
+### 03. 📚 StudyBuddy — AI Study Assistant
+**Desktop · AI · C++**
+
+Cross-platform desktop productivity app built in `C++/Qt 6`. Uses `OpenCV` to track eye and face presence in real time and compute a 0–100% focus score per session. Integrates the `Gemini API` for context-aware study tips derived from actual session data.
+
+Includes a Pomodoro timer, smart calendar planner, gamified achievement and streak system, and post-session survey for distraction tracking. All data persisted in a unified `SQLite` schema.
+
+```
+REAL-TIME CV  |  GAMIFIED  |  GEMINI API
+```
+
+**Stack:** `C++` `Qt 6` `OpenCV` `Gemini API` `SQLite`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia)
+
+---
+
+### 04. 🛍️ Visual E-Commerce Search (CBIR)
+**Computer Vision · Flask**
+
+Content-based image retrieval engine for e-commerce. Extracts deep feature vectors from product images using a pre-trained `ResNet50` backbone (ImageNet weights, 2048-dim output), then ranks the product database by `cosine similarity` to return the most visually similar results.
+
+Flask REST API handles image intake and feature comparison; React frontend provides the upload interface and displays ranked results in a product grid.
+
+```
+2048-DIM  |  ResNet50  |  COSINE SIMILARITY
+```
+
+**Stack:** `ResNet50` `Flask` `React` `NumPy` `Cosine Similarity`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia)
+
+---
+
+### 05. 🏫 Teaching Assignment System
+**Institutional Tool · PHP**
+
+Web platform built to automate and centralise the assignment of teaching units across academic departments — a real institutional problem at ENSAH. Supports `five distinct roles` each with their own permission scope and dashboard.
+
+Features automatic workload balancing, wish-submission and approval queue, vacant UE routing, Excel import/export, PHPMailer notifications, timetable generation, grade management, and full cross-year historical reporting.
+
+```
+5 ROLES  |  REAL DEPLOYMENT  |  EXCEL I/O
+```
+
+**Stack:** `PHP` `MySQL` `Bootstrap` `PHPMailer` `Excel I/O`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php)
+
+---
+
+### 06. 🏦 C Banking System
+**Systems · Pure C**
+
+Command-line banking application in `pure C` with SQLite persistence. Dual-role system (Admin / Client) with a 14-option client menu covering deposits, withdrawals, transfers, bill payment, and mobile recharges.
+
+Includes a demand queue system where account creation, modification, and cheque book requests are submitted by clients and approved by the admin. Transaction history visualised as charts via `Gnuplot`.
+
+```
+PURE C  |  SQLITE  |  GNUPLOT
+```
+
+**Stack:** `C` `SQLite` `Gnuplot` `GCC/Makefile`
+
+[![View Code](https://img.shields.io/badge/▶_VIEW_CODE-00F5FF?style=flat-square&labelColor=0A0A0F&color=00F5FF)](https://github.com/N-ostalgia/C_Banking_System)
+
+---
+
+## 📜 ACHIEVEMENTS UNLOCKED
+
+| 🏅 Certificate | 🏢 Issuer | 📅 |
+|:---|:---|:---:|
+| 🛡️ **Certified in Cybersecurity (CC)** | ISC² | 2025 |
+| 🔐 **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 |
+| 🔍 **OSINT Fundamentals** | Independent | 2026 |
+
+---
+
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-ostalgia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=C9963A&icon_color=C9963A&text_color=B8B3A8&bg_color=0D1117" alt="Aya's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-ostalgia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=C9963A&text_color=B8B3A8&bg_color=0D1117" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-ostalgia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=FF2D78&text_color=888&bg_color=0D0D14" alt="GitHub Stats"/>&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-ostalgia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=888&bg_color=0D0D14" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=N-ostalgia&theme=tokyonight&hide_border=true&background=0D0D14&ring=00F5FF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=FFA500&dates=666&currStreakNum=F0ECE3&sideNums=F0ECE3&stroke=00F5FF" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=N-ostalgia&theme=tokyonight&hide_border=true&background=0D1117&ring=C9963A&fire=C9963A&currStreakLabel=C9963A&sideLabels=C9963A&dates=7A7468&currStreakNum=F0EDE6&sideNums=F0EDE6&stroke=C9963A" alt="GitHub Streak"/>
-
-</div>
-
-<!-- ══ TROPHIES ══ --> 
-<div align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=N-ostalgia&theme=juicyfresh&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies" width="800"/>
-</div>
-
-## 📜 Certifications
+## 🎮 CONTROLS
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issuer | 📅 | 🔗 |
-|:---|:---|:---:|:---:|
-| 🛡️ **Certified in Cybersecurity (CC)** | ISC² | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/F98P7VO2RBNO) |
-| 🔐 **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/YUA8MZCDF0EO) |
-| 🔍 **OSINT Fundamentals** | Independent | 2026 | — |
+```
+  ┌─────────────────────────────────────────────────────┐
+  │                                                     │
+  │   [PORTFOLIO]  [LINKEDIN]  [GITHUB]  [EMAIL]       │
+  │                                                     │
+  │   ▶ PRESS START TO CONTINUE                         │
+  │                                                     │
+  └─────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -322,6 +257,20 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 
 *"I learn by breaking things — and making them better."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=100&section=footer" width="100%"/>
+```
+  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌
+ ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌
+  ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░▌       ▐░▌
+           ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+  ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌
+ ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+```
+
+**© 2026 N-OSTALGIA · ALL RIGHTS RESERVED**
 
 </div>
