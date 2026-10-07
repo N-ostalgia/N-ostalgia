@@ -283,40 +283,6 @@ Built **X-Radar**, a network supervision desktop app providing real-time visibil
 </table>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-ostalgia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=C9963A&icon_color=C9963A&text_color=B8B3A8&bg_color=0D1117" alt="Aya's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-ostalgia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=C9963A&text_color=B8B3A8&bg_color=0D1117" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=N-ostalgia&theme=tokyonight&hide_border=true&background=0D1117&ring=C9963A&fire=C9963A&currStreakLabel=C9963A&sideLabels=C9963A&dates=7A7468&currStreakNum=F0EDE6&sideNums=F0EDE6&stroke=C9963A" alt="GitHub Streak"/>
-
-</div>
-
-<!-- ══ TROPHIES ══ --> 
-<div align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=N-ostalgia&theme=juicyfresh&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies" width="800"/>
-</div>
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏢 Issuer | 📅 | 🔗 |
-|:---|:---|:---:|:---:|
-| 🛡️ **Certified in Cybersecurity (CC)** | ISC² | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/F98P7VO2RBNO) |
-| 🔐 **Introduction to Cybersecurity** | NYU Tandon School of Engineering | 2025 | [![View](https://img.shields.io/badge/View-C9963A?style=flat-square&logo=coursera&logoColor=0A0907)](https://www.coursera.org/account/accomplishments/specialization/YUA8MZCDF0EO) |
-| 🔍 **OSINT Fundamentals** | Independent | 2026 | — |
-
-</div>
-
----
 
 <div align="center">
 
