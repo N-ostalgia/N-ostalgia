@@ -29,11 +29,11 @@ class AyaBouibauan:
     def __init__(self):
         self.name       = "Aya Bouibauan"
         self.alias      = "N-ostalgia"
-        self.school     = "ENSAH · Computer Science Engineering (4th year)"
+        self.school     = "ENSAH · Computer Science Engineering (final year)"
         self.location   = "Al Hoceima, Morocco 🇲🇦"
-        self.languages  = ["Arabic (native)", "French", "English"]
+        self.languages  = ["Arabic", "French", "English"]
         self.focus      = ["Full-Stack Dev", "AI/ML", "Cybersecurity", "Systems"]
-        self.seeking    = "PFA Internship · 2026 "
+        self.seeking    = "PFE Internship · 2027 "
 
     def fun_fact(self):
         return "I learn by breaking things — and making them better 🔧"
