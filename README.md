@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=180&section=header&text=Aya%20Bouibauan&fontSize=52&fontColor=0A0907&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=15&descAlignY=58&descColor=0A0907&animation=twinkling" width="100%"/>
 
 <!-- ══════════════ TYPING ══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=700&lines=4th-year+CS+Engineering+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+Developer+%7C+Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;Building+systems%2C+not+just+features.;Open+to+PFA+Internship+%C2%B7+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=700&lines=final-year+CS+Engineering+%40+ENSAH+%7C+Al+Hoceima%2C+Morocco;Full-Stack+Developer+%7C+Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;Building+systems%2C+not+just+features.;Open+to+PFE+Internship+%C2%B7+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
