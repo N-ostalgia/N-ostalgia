@@ -18,7 +18,7 @@ Final-year software engineering student at **ENSAH** (Al Hoceima, Morocco), spec
 
 **Looking for a 6-month PFE internship (2027).**
 
-🌍 Arabic · French · English
+**Languages:** Arabic · French · English
 
 ---
 
@@ -30,8 +30,12 @@ Collaborative e-learning platform **"Nexus"**, 16 modules: auth, video courses, 
 - Integrations: Stripe Connect, Cloudflare R2, Resend, Better Auth
 - AI: automatic quiz and course-summary generation from videos (**Whisper + Llama via Groq**)
 
+![](https://skillicons.dev/icons?i=nextjs,react,ts,postgres,redis,docker&theme=dark)
+
 **Frontend Developer Intern · XAI** (Rabat, remote) · Aug–Oct 2025
 **X-Radar**, a network supervision app: React.js dashboard, analytics and admin views, packaged as an **Electron.js** desktop app (SQLite). Remote Agile team, Jira.
+
+![](https://skillicons.dev/icons?i=react,electron,sqlite&theme=dark) ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -41,8 +45,8 @@ Collaborative e-learning platform **"Nexus"**, 16 modules: auth, video courses, 
 <tr>
 <td width="50%" valign="top">
 
-### ☸️ Collecta · *in progress*
-`Spring Boot` `Angular` `PostgreSQL` `Docker` `Kubernetes`
+### Collecta · *in progress*
+![](https://skillicons.dev/icons?i=spring,angular,postgres,docker,kubernetes,githubactions&theme=dark)
 
 Microservices app with a full **DevSecOps** chain: GitHub Actions CI/CD, Minikube deployment, security scanning (SonarQube, Trivy, OWASP) and monitoring (Prometheus, Grafana).
 
@@ -52,8 +56,8 @@ Microservices app with a full **DevSecOps** chain: GitHub Actions CI/CD, Minikub
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Enrollment Management System
-`Spring Cloud` `Eureka` `MySQL` `React`
+### Enrollment Management System
+![](https://skillicons.dev/icons?i=spring,mysql,react&theme=dark)
 
 Microservices (students, courses, enrollments) behind a **Spring Cloud API Gateway**, with **Eureka** service discovery and a React dashboard.
 
@@ -65,8 +69,8 @@ Microservices (students, courses, enrollments) behind a **Spring Cloud API Gatew
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Network Intrusion Detection System
-`XGBoost` `FastAPI` `React` `WebSockets` `tshark`
+### Network Intrusion Detection System
+![](https://skillicons.dev/icons?i=python,fastapi,react&theme=dark) ![](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square) ![](https://img.shields.io/badge/tshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 tshark capture → 116 CICFlowMeter features → XGBoost (**99.6% F1**) served by FastAPI → real-time React dashboard. Detects **12+ attack types**.
 
@@ -75,8 +79,8 @@ tshark capture → 116 CICFlowMeter features → XGBoost (**99.6% F1**) served b
 </td>
 <td width="50%" valign="top">
 
-### 💻 AI-Powered Safe Command-Line Assistant
-`DistilBERT` `GPT-2` `HuggingFace` `PyTorch`
+### AI-Powered Safe Command-Line Assistant
+![](https://skillicons.dev/icons?i=python,pytorch&theme=dark) ![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 Fine-tuned **DistilBERT** flags risky shell commands (**94.5% precision, 97.1% recall**) and **GPT-2** predicts the next command. Trained on 100,000 annotated commands.
 
@@ -91,14 +95,32 @@ Fine-tuned **DistilBERT** flags risky shell commands (**94.5% precision, 97.1% r
 
 ## Skills
 
-| | |
-|---|---|
-| **Languages** | ![](https://skillicons.dev/icons?i=python,java,ts,js,bash,c,cpp&theme=dark) |
-| **Backend** | ![](https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark) REST · WebSockets · tRPC · Microservices |
-| **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,electron&theme=dark) |
-| **DevOps & Cloud** | ![](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana&theme=dark) ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white) ![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **AI / ML** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark) ![](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square) ![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) YOLOv8 · Groq LLM APIs |
-| **Data & Tools** | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,linux&theme=dark) Oracle DB · PL/SQL · Jira |
+<table>
+<tr>
+<td width="150"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,c,cpp&theme=dark" height="36"/></td>
+</tr>
+<tr>
+<td width="150"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark" height="36"/> <sub>REST · WebSockets · tRPC · Microservices</sub></td>
+</tr>
+<tr>
+<td width="150"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,electron&theme=dark" height="36"/></td>
+</tr>
+<tr>
+<td width="150"><b>DevOps & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana&theme=dark" height="36"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/> <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/></td>
+</tr>
+<tr>
+<td width="150"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36"/> <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <sub>YOLOv8 · Groq LLM APIs</sub></td>
+</tr>
+<tr>
+<td width="150"><b>Data & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,linux&theme=dark" height="36"/> <sub>Oracle DB · PL/SQL · Jira</sub></td>
+</tr>
+</table>
 
 ---
 
