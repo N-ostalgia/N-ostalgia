@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=170&section=header&text=Aya%20Bouibauan&fontSize=50&fontColor=0A0907&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%C2%B7%20Cybersecurity&descSize=16&descAlignY=60&descColor=0A0907" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9963A&height=170&section=header&text=Aya%20Bouibauan&fontSize=50&fontColor=0A0907&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20DevOps&descSize=16&descAlignY=60&descColor=0A0907" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+ENSAH+%C2%B7+Al+Hoceima;Python+%C2%B7+React+%C2%B7+Java+%C2%B7+C%2B%2B;Building+systems%2C+not+just+features;Open+to+PFE+internships+%C2%B7+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=C9963A&center=true&vCenter=true&width=620&lines=Final-year+Software+Engineering+student+%40+ENSAH;Full-Stack+%C2%B7+AI+%C2%B7+DevOps;Building+systems%2C+not+just+features;Seeking+a+6-month+PFE+internship+%C2%B7+2027)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C9963A?style=for-the-badge&logo=googlechrome&logoColor=0A0907)](https://aya-bouibauan-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-bouibauan-a12a04201)
@@ -14,100 +14,101 @@
 
 ## About
 
-Final-year Computer Engineering student at **ENSAH**, looking for a **PFE internship (2027)**.
-I build full-stack apps, ML-powered tools and network security systems, and I'm now going deeper into **DevOps / cloud** (Docker, Kubernetes, CI/CD).
+Final-year software engineering student at **ENSAH** (Al Hoceima, Morocco), specialised in **full-stack development** (React, Next.js, Angular, Python, Java/Spring Boot), **AI integration** (NLP, computer vision, LLMs) and **DevOps** (Docker, Kubernetes, CI/CD).
 
-- 🔐 Shipped an end-to-end intrusion detection pipeline (99.6% F1, ~30 ms per flow)
-- ⚛️ Built a production-style React + Electron desktop app during my internship
-- 🌍 Languages: Arabic · French · English
+**Looking for a 6-month PFE internship (2027).**
 
----
-
-## Stack
-
-| | |
-|---|---|
-| **Languages** | ![](https://skillicons.dev/icons?i=python,java,c,cpp,js,php&theme=dark) |
-| **Web** | ![](https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,spring,html,css&theme=dark) |
-| **AI / Data** | ![](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark) ![](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square) ![](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Security** | ![](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![](https://img.shields.io/badge/nmap-004B87?style=flat-square) ![](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square) ![](https://img.shields.io/badge/Snort-CC0000?style=flat-square) |
-| **Data** | ![](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark) |
-| **DevOps** | ![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux&theme=dark) |
+🌍 Arabic · French · English
 
 ---
 
 ## Experience
 
-**Frontend Developer Intern · XAI Technologies** (Remote, Rabat) · Aug–Oct 2025
+**Full-Stack Engineer Intern · Accenov Technologies** (Casablanca, remote) · Jun–Aug 2026
+Collaborative e-learning platform **"Nexus"**, 16 modules: auth, video courses, quizzes, payments, real-time messaging, gamification.
+- Modular architecture on **Next.js, React, TypeScript, tRPC, Drizzle ORM, PostgreSQL, Redis, BullMQ, Socket.io, Docker**
+- Integrations: Stripe Connect, Cloudflare R2, Resend, Better Auth
+- AI: automatic quiz and course-summary generation from videos (**Whisper + Llama via Groq**)
 
-Built **X-Radar**, a network supervision desktop app (real-time traffic, alerts, anomalies).
-React dashboard + analytics + admin views, packaged with Electron, SQLite persistence, Agile/Jira.
+**Frontend Developer Intern · XAI** (Rabat, remote) · Aug–Oct 2025
+**X-Radar**, a network supervision app: React.js dashboard, analytics and admin views, packaged as an **Electron.js** desktop app (SQLite). Remote Agile team, Jira.
 
 ---
 
-## Featured Projects
+## Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### ☸️ Collecta · *in progress*
+`Spring Boot` `Angular` `PostgreSQL` `Docker` `Kubernetes`
+
+Microservices app with a full **DevSecOps** chain: GitHub Actions CI/CD, Minikube deployment, security scanning (SonarQube, Trivy, OWASP) and monitoring (Prometheus, Grafana).
+
+<!-- TODO: add repo URL -->
+[**View code →**](https://github.com/N-ostalgia)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Enrollment Management System
+`Spring Cloud` `Eureka` `MySQL` `React`
+
+Microservices (students, courses, enrollments) behind a **Spring Cloud API Gateway**, with **Eureka** service discovery and a React dashboard.
+
+<!-- TODO: add repo URL -->
+[**View code →**](https://github.com/N-ostalgia)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 Network Intrusion Detection System
 `XGBoost` `FastAPI` `React` `WebSockets` `tshark`
 
-Live capture → CICFlowMeter (116 features) → XGBoost → React dashboard in ~30 ms per flow.
-**99.6% F1**, 12+ attack types (DDoS, brute force, port scan, botnet, XSS), with live, PCAP and CSV modes.
+tshark capture → 116 CICFlowMeter features → XGBoost (**99.6% F1**) served by FastAPI → real-time React dashboard. Detects **12+ attack types**.
 
 [**View code →**](https://github.com/N-ostalgia/NIDS)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ POI Explorer Pro
-`Java` `JavaFX` `OpenStreetMap`
+### 💻 AI-Powered Safe Command-Line Assistant
+`DistilBERT` `GPT-2` `HuggingFace` `PyTorch`
 
-Tour-planning desktop app on real OSM data. Routes optimised with **Greedy, A\* or Genetic** algorithms, step-by-step navigation, synced 2D map + 3D animation view.
+Fine-tuned **DistilBERT** flags risky shell commands (**94.5% precision, 97.1% recall**) and **GPT-2** predicts the next command. Trained on 100,000 annotated commands.
 
-<!-- TODO: replace with the real repo URL -->
-[**View code →**](https://github.com/N-ostalgia)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 StudyBuddy
-`C++` `Qt 6` `OpenCV` `Gemini API` `SQLite`
-
-Desktop study assistant: OpenCV face/eye tracking gives a live 0–100% focus score, Gemini turns session data into tailored tips. Pomodoro, smart planner, streaks.
-
-<!-- TODO: replace with the real repo URL -->
-[**View code →**](https://github.com/N-ostalgia)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Visual E-Commerce Search
-`ResNet50` `Flask` `React`
-
-Image-based product search: 2048-dim ResNet50 embeddings ranked by cosine similarity, served through a Flask API and a React upload UI.
-
-<!-- TODO: replace with the real repo URL -->
+<!-- TODO: add repo URL -->
 [**View code →**](https://github.com/N-ostalgia)
 
 </td>
 </tr>
 </table>
 
-**Also built:**
-[🏫 Teaching Assignment System](https://github.com/N-ostalgia/-Application-de-Gestion-des-Affectations-des-Enseignements-php) (PHP/MySQL, 5 roles, real institutional use at ENSAH) ·
-[🏦 C Banking System](https://github.com/N-ostalgia/C_Banking_System) (pure C + SQLite)
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | ![](https://skillicons.dev/icons?i=python,java,ts,js,bash,c,cpp&theme=dark) |
+| **Backend** | ![](https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark) REST · WebSockets · tRPC · Microservices |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,electron&theme=dark) |
+| **DevOps & Cloud** | ![](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana&theme=dark) ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white) ![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **AI / ML** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark) ![](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square) ![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) YOLOv8 · Groq LLM APIs |
+| **Data & Tools** | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,linux&theme=dark) Oracle DB · PL/SQL · Jira |
 
 ---
 
-## Currently
+## Certifications
 
-- ☸️ Kubernetes, containers and CI/CD for cloud and DevOps coursework
-- 🎯 Looking for a PFE internship in software, AI/ML or security
+![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
+![ISC2](https://img.shields.io/badge/ISC%C2%B2-Certified_in_Cybersecurity_2025-4A90D9?style=flat-square)
+![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-in_progress-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
 
 <div align="center">
 
